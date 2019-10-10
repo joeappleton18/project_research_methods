@@ -1,7 +1,3 @@
----
-title:  "Planning your final year project"
----
-
 
 # Planning your final year project
 
