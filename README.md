@@ -1,3 +1,6 @@
+---
+title: My custom title
+---
 
 # Planning your final year project
 
