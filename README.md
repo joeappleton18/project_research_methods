@@ -1,7 +1,3 @@
----
-title: My custom title
----
-
 # Planning your final year project
 
 I (Joe Appleton), at the time of writing, must have marked close to 100 final year projects. The number one, aspect that separates a satisfactory piece of work to an outstanding one, is upfront planning. 
